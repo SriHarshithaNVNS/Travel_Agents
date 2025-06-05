@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_aws
+langsmith
+python-dotenv
+langgraph-cli[inmem]
+pandas

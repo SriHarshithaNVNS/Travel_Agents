@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+   "graphs": {
+    "accommodation_agent": "./main.py:accommodation_graph",
+    "activity_agent": "./main.py:activity_graph",
+    "travel_planner": "./main.py:travel_planner"
+  },
+  "env":".env"
+}
